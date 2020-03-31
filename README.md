@@ -42,7 +42,7 @@ node app.js "George Mandis" markdown
 
 # Caveat Emptor
 
-- Your name might be a little more descriptive than mine and look something like `Jane Doe (she/her) (W2'20)`. That should still work! Make sure you provide the correct number of spaces between your parenthicals. 
+- Your name might be a little more descriptive than mine and look something like `Jane Doe (she/her) (W2'20)`. That should still work! Make sure you provide the correct number of spaces between your parentheticals. 
 - If you wrote a truly <s>obscene</s> wonderful amount of content you can change the `num_before` property to something higher than 3000. In that case you should probably also find an agent and a publisher.
 
 Want to become a better programmer? [Join the Recurse Center!](https://www.recurse.com/scout/click?t=151b3c977197fc57d3ab8ce968bce35e)
