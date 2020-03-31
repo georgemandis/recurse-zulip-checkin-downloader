@@ -3,7 +3,7 @@ Recurse Center Zulip Check-in Exporter
 
 Did you write a small novel in your check-in topic on Zulip during your time at the [Recurse Center](https://www.recurse.com/scout/click?t=151b3c977197fc57d3ab8ce968bce35e)? Do you kind of wish you could download it and have it all in one place?
 
-Well, it's your lucky day! Find your name from the drop-down, check the paramters you want and click the export button.
+Well, it's your lucky day! 
 
 # How to Use
 
