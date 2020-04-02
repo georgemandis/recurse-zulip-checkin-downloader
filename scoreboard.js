@@ -45,7 +45,7 @@ const prettyBytes = require("pretty-bytes");
       apply_markdown: false,
       narrow: [
         { operator: "stream", operand: "checkins" },
-        { operator: "topic", operand: escape(topic) }
+        { operator: "topic", operand: encodeURIComponent(topic) }
       ]
     };
 
