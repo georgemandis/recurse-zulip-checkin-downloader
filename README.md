@@ -39,6 +39,13 @@ That should do it! You'll see all of your check-ins output to the terminal as HT
 node app.js "George Mandis" markdown
 ```
 
+If you'd like to save the contents to a file you can do so like this:
+
+```
+node app.js "George Mandis" > george-mandis-checkins.html
+node app.js "George Mandis" markdown < george-mandis-checkins.md
+```
+
 
 # Caveat Emptor
 
