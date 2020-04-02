@@ -1,7 +1,7 @@
-Recurse Center Zulip Check-in Exporter
+Recurse Center Zulip Checkin Exporter
 ==
 
-Did you write a small novel in your check-in topic on Zulip during your time at the [Recurse Center](https://www.recurse.com/scout/click?t=151b3c977197fc57d3ab8ce968bce35e)? Do you kind of wish you could download it and have it all in one place?
+Did you write a small novel in your checkin topic on Zulip during your time at the [Recurse Center](https://www.recurse.com/scout/click?t=151b3c977197fc57d3ab8ce968bce35e)? Do you kind of wish you could download it and have it all in one place?
 
 Well, it's your lucky day! 
 
@@ -33,7 +33,7 @@ Once you'ved done that you'll you can run it from the command line by providing 
 node app.js "George Mandis"
 ```
 
-That should do it! You'll see all of your check-ins output to the terminal as HTML. If you'd like to output as markdown you can pass an optional markdown paramter after your stream topic:
+That should do it! You'll see all of your checkins output to the terminal as HTML. If you'd like to output as markdown you can pass an optional markdown paramter after your stream topic:
 
 ```
 node app.js "George Mandis" markdown
