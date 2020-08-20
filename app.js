@@ -1,7 +1,7 @@
 /**
  * Recurse Center Check-in Stream Exporter
  * ===
- * By George Mandis (Winter 2, 2020 @ Recure Center)
+ * By George Mandis (Winter 2, 2020 @ Recurse Center)
  */
 
 const zulip = require("zulip-js");
@@ -10,7 +10,7 @@ const dateFormat = require("dateformat");
 const topic = process.argv[2];
 
 /**
- * This is most likely formated something like this:
+ * This is most likely formatted something like this:
  * e.g. "George Mandis (W2'20)"
  */
 if (!topic) {
