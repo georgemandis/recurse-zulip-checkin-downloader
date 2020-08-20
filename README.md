@@ -33,7 +33,7 @@ Once you'ved done that you'll you can run it from the command line by providing 
 node app.js "George Mandis"
 ```
 
-That should do it! You'll see all of your checkins output to the terminal as HTML. If you'd like to output as markdown you can pass an optional markdown paramter after your stream topic:
+That should do it! You'll see all of your checkins output to the terminal as HTML. If you'd like to output as markdown you can pass an optional markdown parameter after your stream topic:
 
 ```
 node app.js "George Mandis" markdown
@@ -43,7 +43,7 @@ If you'd like to save the contents to a file you can do so like this:
 
 ```
 node app.js "George Mandis" > george-mandis-checkins.html
-node app.js "George Mandis" markdown < george-mandis-checkins.md
+node app.js "George Mandis" markdown > george-mandis-checkins.md
 ```
 
 
