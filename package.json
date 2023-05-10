@@ -11,6 +11,6 @@
   "dependencies": {
     "dateformat": "^3.0.3",
     "pretty-bytes": "^5.3.0",
-    "zulip-js": "^2.0.8"
+    "zulip-js": "^2.0.9"
   }
 }
